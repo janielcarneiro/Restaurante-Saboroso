@@ -10,7 +10,7 @@
     "connect-redis": "^4.0.4",
     "cookie-parser": "~1.0.1",
     "debug": "~0.7.4",
-    "ejs": "~0.8.5",
+    "ejs": "~2.5.5",
     "express": "~4.0.0",
     "express-session": "^1.17.0",
     "formidable": "^1.2.2",
